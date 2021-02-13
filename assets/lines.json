@@ -1,0 +1,200 @@
+[
+  {
+    "id": "vartical1A",
+    "points": [45, 50, 45, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical1B",
+    "points": [140, 50, 140, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical1C",
+    "points": [235, 50, 235, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical1D",
+    "points": [330, 50, 330, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical2A",
+    "points": [45, 145, 45, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical2B",
+    "points": [140, 145, 140, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical2C",
+    "points": [235, 145, 235, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical2D",
+    "points": [330, 145, 330, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical3A",
+    "points": [45, 240, 45, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical3B",
+    "points": [140, 240, 140, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical3C",
+    "points": [235, 240, 235, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "vartical3D",
+    "points": [330, 240, 330, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon1A",
+    "points": [50, 45, 135, 45],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon2A",
+    "points": [50, 140, 135, 140],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon3A",
+    "points": [50, 235, 135, 235],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon4A",
+    "points": [50, 330, 135, 330],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon1B",
+    "points": [145, 45, 230, 45],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon2B",
+    "points": [145, 140, 230, 140],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon3B",
+    "points": [145, 235, 230, 235],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon4B",
+    "points": [145, 330, 230, 330],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon1C",
+    "points": [240, 45, 325, 45],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon2C",
+    "points": [240, 140, 325, 140],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon3C",
+    "points": [240, 235, 325, 235],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "horizon4C",
+    "points": [240, 330, 325, 330],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal1A",
+    "points": [135, 50, 50, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal1B",
+    "points": [230, 50, 145, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal1C",
+    "points": [325, 50, 240, 135],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal2A",
+    "points": [135, 145, 50, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal2B",
+    "points": [230, 145, 145, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal2C",
+    "points": [325, 145, 240, 230],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal3A",
+    "points": [135, 240, 50, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal3B",
+    "points": [230, 240, 145, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  },
+  {
+    "id": "diagonal3C",
+    "points": [325, 240, 240, 325],
+    "stroke": "black",
+    "strokeWidth": 10
+  }
+]
